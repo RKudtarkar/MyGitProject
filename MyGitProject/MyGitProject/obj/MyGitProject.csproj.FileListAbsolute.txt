@@ -1,0 +1,7 @@
+E:\rohan\GitProjects\MyGitProject\MyGitProject\MyGitProject\bin\Debug\MyGitProject.exe
+E:\rohan\GitProjects\MyGitProject\MyGitProject\MyGitProject\bin\Debug\MyGitProject.pdb
+E:\rohan\GitProjects\MyGitProject\MyGitProject\MyGitProject\obj\Debug\ResolveAssemblyReference.cache
+E:\rohan\GitProjects\MyGitProject\MyGitProject\MyGitProject\obj\Debug\MyGitProject.Properties.Resources.resources
+E:\rohan\GitProjects\MyGitProject\MyGitProject\MyGitProject\obj\Debug\MyGitProject.csproj.GenerateResource.Cache
+E:\rohan\GitProjects\MyGitProject\MyGitProject\MyGitProject\obj\Debug\MyGitProject.exe
+E:\rohan\GitProjects\MyGitProject\MyGitProject\MyGitProject\obj\Debug\MyGitProject.pdb
