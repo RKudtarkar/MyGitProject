@@ -14,5 +14,10 @@ namespace MyGitProject
         {
             InitializeComponent();
         }
+        public void Get()
+        { 
+        //added
+        }
+
     }
 }
